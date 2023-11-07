@@ -89,3 +89,5 @@ footer {
 }
 
 ```
+#Output
+![Screenshot (76)](https://github.com/21002624/Exp-3-Create-a-Web-Layout-using-FLEXBOX/assets/113762183/b3119eb5-ea1b-48b8-90ab-c5e95622c00a)
