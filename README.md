@@ -1,5 +1,5 @@
 # Exp-3-Create-a-Web-Layout-using-FLEXBOX
-##HTML
+# HTML
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -38,7 +38,7 @@
 </html>
 
 ```
-##CSS
+# CSS
 ```
 body {
     font-family: 'Arial', sans-serif;
